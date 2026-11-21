@@ -1,4 +1,5 @@
 # Axon Shaft
+test only
 
 A GitHub Action that reviews pull requests with Claude, using the Claude Agent SDK on your own GitHub runners.
 The model reads the code and returns its findings as JSON. The action posts one summary comment, which it edits on every push, and one review with inline comments.
